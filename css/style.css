@@ -1,0 +1,16 @@
+
+
+/*  stat navbar  */
+
+.navbar{
+  padding: 2.5rem,2.5rem,2.5rem,2.5rem;
+}
+.bg-light {
+    background-color: #76a280 !important;
+}
+.navbar-brand{
+
+  font-size: 5.25rem;
+
+}
+/*  end navbar  */

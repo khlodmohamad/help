@@ -1,0 +1,151 @@
+
+body{
+  width: 100%;
+  height:100%;
+  background-image: url("cccc.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-clip: border-box;
+}
+/*  stat navbar  */
+
+.navbar{
+  padding: 10px;
+}
+
+.navbar-nav li{
+  padding-right: 20px;
+}
+
+.bg-light {
+    background-color: #76a280 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.navbar-brand{
+  font-size: 2.25rem;
+}
+/*  end navbar  */
+
+
+/*  start header  */
+.header p {
+    font-size: 50px;
+    margin-top: 210px;
+    font-weight: 500;
+    color:#a9a6a6;
+}
+
+/*  end header  */
+
+
+/* start section */
+
+
+
+.section .but{
+margin-bottom: 200px;
+}
+.section a {
+  margin-top: 45px;
+}
+.section .btn {
+    padding: 0.5rem 7rem;
+}
+
+.btn-outline-dark:hover {
+    color: #fff;
+    background-color: #435d92;
+}
+/* end section */
+
+/*    start footer   */
+
+.footer{
+ padding: 30px;
+ background-color: #76a280 !important;
+}
+
+#copy{
+  margin-top: 10px;
+  color: #dfe0e2
+}
+
+ul {
+  margin: 0
+}
+
+.footer ul li {
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.footer ul li a {
+  padding-right: 20px;
+  color: #dfe0e2
+}
+
+/* ---------------------- login ---------------------*/
+
+.login-form{
+
+  margin-top: 50px;
+}
+
+.form{
+
+  margin-top: 40px;
+  padding-left: 0px;
+  margin-left: 0px;
+
+}
+
+
+#arrow {
+  font-weight: 9000;
+  margin-left: 50px;
+  margin-top: 10px;
+  font-size: 25px;
+  color:grey;
+}
+
+.form-control {
+    margin: 10px;
+    width: 350px;
+    height:45px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ label{
+   margin-top: 10px;
+   font-size: 20px;
+   margin-left: 34%;
+   margin-right: auto;
+}
+
+.form-group {
+    margin-top: 20px;
+  }
+
+span {
+  font-size: 15px;
+  color: grey;
+  }
+
+.log{
+  margin-top: 40px;
+  margin-bottom: 50px;
+  height:45px;
+}
+
+.log .btn{
+  padding: 0.375rem 6.75rem;
+  color: #fff;
+  background-color: #435d92;
+}
+/*-------------------  ---------------*/

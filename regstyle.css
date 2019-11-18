@@ -1,0 +1,52 @@
+
+
+
+
+
+form {
+      text-align: left;
+      margin-top: 15px;
+      padding-left: 0px;
+      margin-left: 0px;
+}
+
+#arrow {
+  font-weight: 9000;
+  margin-left: 50px;
+  margin-top: 10px;
+  font-size: 25px;
+  color:grey;
+}
+
+.register-form{
+
+  margin-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+.form-control {
+  width: 70%;
+  margin-left: 17%;
+}
+
+label{
+  margin-left: 17%;
+}
+
+
+.form-group{
+    margin: 20px;
+}
+
+.form-group .form-check-input{
+    margin-left:auto;
+
+}
+
+span {
+  font-size: 15px;
+  color: grey;
+  margin-left: 20px;
+
+}

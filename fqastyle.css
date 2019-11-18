@@ -1,0 +1,37 @@
+.faq{
+
+ text-align: center;
+  width: 100%;
+  line-height: 30px;
+  padding: 60px;
+  background-color: #fbfbfb8a;
+  margin-top: 10%;
+  margin-bottom: 10%;
+
+}
+
+h2{
+text-align: left;
+margin: 5px;
+margin-bottom: 20px;
+margin-left: 140px;
+}
+
+.accordion{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+.card-header {
+
+ background-color: #435d92;
+}
+
+.btn-link {
+ color: #e7e7e8;
+}
+
+.btn-link:hover {
+ color: #89ce98;
+}
